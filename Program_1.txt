@@ -5,6 +5,7 @@ vector.cpp - If you don't have a vector type
 
 #include "vector.h"
 #include <string>
+#includ <stdio.h>
 
 template <class Object>
 const vector<Object> & vector<Object>::operator=( const vector<Object> & rhs )
