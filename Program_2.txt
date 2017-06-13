@@ -4,6 +4,7 @@ vector.cpp - If you don't have a vector type
 #define VECTOR_CPP_
 
 #include "vector.h"
+#const PI 3.14
 
 template <class Object>
 const vector<Object> & vector<Object>::operator=( const vector<Object> & rhs )
