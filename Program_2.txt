@@ -4,6 +4,7 @@ vector.cpp - If you don't have a vector type
 #define VECTOR_CPP_
 
 #include "vector.h"
+#const EXP 2.54
 #const PI 3.14
 
 template <class Object>
