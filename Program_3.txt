@@ -1,6 +1,8 @@
 Progress bar
 #inlcude <stdio.h>
 
+#included <string>
+
 #include<graphics.h>
 #include<conio.h>
 #include<alloc.h>
